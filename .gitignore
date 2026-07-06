@@ -8,7 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
-uv.lock
-.gitignore
-pyproject.toml
+
+# Secrets - never commit these
 .env
